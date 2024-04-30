@@ -12,5 +12,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="react" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="react" width="45" height="45"/>
 </div>
-
-![](https://komarev.com/ghpvc/?username=MrMikki-boop)
